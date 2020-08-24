@@ -1,2 +1,2 @@
 # hello-all
-module 1 class DIG2500C
+This repository is for the DIG2500C class
